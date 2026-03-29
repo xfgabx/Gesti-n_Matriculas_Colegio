@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Gestión_Horarios/Gestión_Horarios.csproj" Id="ecc8fd3d-64fc-4b18-b265-bed3b0f67418" />
+  <Project Path="Gestión_Inscripciones/Gestión_Inscripciones.csproj" Id="cdcc87b2-5466-45de-a4a6-63f63ef4b8d5" />
+  <Project Path="Gestión_Matriculas_Colegio/Gestión_Estudiantes.csproj" Id="4255b99d-5a5d-4f5b-8441-fbd8646e532f" />
+  <Project Path="Gestión_Tutores/Gestión_Tutores.csproj" Id="85212f9a-66e8-4d21-874f-6623f9364b89" />
+</Solution>
